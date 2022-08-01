@@ -42,7 +42,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: [Github](https://github.com/aldijoko/huddle-landing-alternating)
-- Live Site URL: [Live Url](https://aldijoko.github.io/huddle-landing-alternating/)
+- Live Site URL: [Live Url](https://huddlealternating.netlify.app/)
 
 ## My process
 
